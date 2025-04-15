@@ -3,5 +3,31 @@
     "nodemailer": "^6.10.1",
     "pdfkit": "^0.17.0",
     "twilio": "^5.5.2"
-  }
+  },
+  "scripts": {
+  
+    
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+      
+    "build": "npm install",
+    
+      
+    "start": "node node/server.js",
+    
+      
+    "dev": "nodemon node/server.js"
+    
+    },
+    
+    "author": "Mouna Priya",
+    
+    "license": "ISC",
+    
+    "devDependencies": {
+    
+      
+    "nodemon": "^3.1.9"
+    
+    }
 }
