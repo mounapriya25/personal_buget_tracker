@@ -13,10 +13,9 @@
     "build": "npm install",
     
       
-    "start": "node node/server.js",
+    "start": "node server.js"
     
-      
-    "dev": "nodemon node/server.js"
+     
     
     },
     
