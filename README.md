@@ -9,6 +9,15 @@ This project consists of multiple components organized in separate repositories:
 - [Backend (node folder)](https://github.com/mounapriya25/Node)
 
 These modules work together to create a complete **Budget Tracker** application, which allows users to manage their financial records, set budgets, track expenses, and visualize their spending.
+## Deployment
+
+- **Frontend**: [Live Demo](https://budget-reactjs.vercel.app)  
+  - Hosted on **Vercel** for the frontend React app.
+  
+- **Backend**: [Live API](https://node-vnkg.onrender.com)  
+  - Hosted on **Render** for the Node.js backend API.
+
+---
 
 ## Features
 
