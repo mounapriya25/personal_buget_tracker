@@ -5,7 +5,7 @@
 
 This project consists of multiple components organized in separate repositories:
 
-- [Frontend (React App)](https://github.com/yourusername/frontend-repo)
+- [Frontend (React App)](https://github.com/mounapriya25/Budget_reactjs)
 - [Backend (Node.js API)](https://github.com/mounapriya25/Node)
 
 These modules work together to create a complete **Budget Tracker** application, which allows users to manage their financial records, set budgets, track expenses, and visualize their spending.
